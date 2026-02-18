@@ -80,3 +80,4 @@ cardMember += markup
 console.log(cardMember);
 
 rowEl.innerHTML = cardMember
+
